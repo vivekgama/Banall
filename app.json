@@ -6,7 +6,8 @@
   "stack": "container",
     "env": {
         "TELEGRAM_TOKEN": {
-            "description": "Bot Token Else leave blank",
+            "description": "6513628021:AAHeeK5AkpUi-bCfbD6SgQ0lMw3_ZdoTXNY
+",
             "required": true
         },
         "PYRO_SESSION": {
